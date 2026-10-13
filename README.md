@@ -39,8 +39,3 @@ Envelope: approx. 420 × 314 × 780 mm.
 | `Animations/` | MP4 animations |
 
 Keep the folder structure intact, because the assemblies reference parts in `Parts/`.
-
-## Authors
-
-- **Avi**: parts 01–16 (frame, base, ram guides, safety shields, dial, load plate)
-- **Hadar**: parts 17–38 (lead screw, ratchet drive, ram, platens, sample stack, hardware)
